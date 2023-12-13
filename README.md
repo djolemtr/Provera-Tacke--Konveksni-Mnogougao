@@ -1,4 +1,4 @@
-Sadrzi funkcionalnost- dodaj teme, provera tacke i reset dugme\ 
+Sadrzi funkcionalnost- dodaj teme, provera tacke i reset dugme
 
 Pokriveni su slucajevi kada bi korisnik izostavio neko polje ili pokusao proveru tacke sa manjim/vecim brojem temena unetih od izabranog broja temena.
 
