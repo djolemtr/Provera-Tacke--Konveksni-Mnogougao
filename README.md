@@ -1,4 +1,4 @@
-**Pokretanje:**
+**Pokretanje**
 
 - Potrebno je pokrenuti Provera_Tacke__Konveksni_Mnogougao_jar fajl, koji se nalazi u out/artifacts folderu, ili učitati projekat u IntelliJ IDEA ili VSCode i pokrenuti program preko Application klase;
 - OpenJDK 21 ili noviji je potreban.
